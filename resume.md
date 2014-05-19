@@ -1,5 +1,6 @@
 Kris Hicks  
-krishicks [@gmail.com | .com]
+krishicks [@gmail.com | .com]  
+San Francisco  
 
 #### About Me
 
