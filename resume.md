@@ -25,6 +25,10 @@ My hobbies include travel, photography, and reading.
 
 #### Experience
 
+##### Senior Developer (Contractor) - Pivotal, 2014-2015
+
+I contracted with Pivotal to work on CloudFoundry. I wanted to work on an open source project for once, and ended up working on multiple. I worked on [BOSH](https://github.com/cloudfoundry/bosh) and [Diego](https://github.com/cloudfoundry-incubator/diego-release), and had a hand in the many submodules that make up each project. The BOSH work was mainly fixing bugs, updating stemcells and the code that builds them, adding support for IaaS-specific features and expanding support for IaaS-agnostic features. I was a member of Diego during a major refactoring necessary prior to going to production.
+
 ##### Lead Developer, CTO - DaisyBill, 2013-2014
 
 I joined DaisyBill to experience what it was like both to work at an early-stage startup and to have a stronger voice in the development of the product–moreso than when I was a consultant. I had a large impact in driving features from concept to planning to implementation, harnessing skills gained over years of consulting. I single-handedly transformed the product, allowing DaisyBill to both bring on new customers and better serve existing customers.
