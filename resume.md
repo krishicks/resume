@@ -8,7 +8,7 @@ I started teaching myself programming in 2007, using VBA. I quickly switched to 
 
 I care about quality code, quick and useful tests, being pragmatic and getting things done. I am passionate about not just how the user will interact with the front-end, but also the APIs the front-end interacts with, how the code that drives those APIs is structured, and how the data itself is structured.
 
-My hobbies include cycling, photography, and reading.
+My hobbies include travel, photography, and reading.
 
 #### Skills
 
