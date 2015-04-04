@@ -12,14 +12,16 @@ My hobbies include travel, photography, and reading.
 
 #### Skills
 
+* Go (1 year)
+* Git (5 years)
+* SQL (6 years)
+* iOS (8 months, 1 app)
 * Ruby (7 years)
 * Rails (6 years)
 * JavaScript (6 years)
 * jQuery (4 years)
-* SQL (6 years)
-* iOS (8 months, 1 app)
 * Java (8 months)
-* Git (4 years)
+
 
 #### Experience
 
