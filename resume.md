@@ -37,7 +37,6 @@ I am mostly ambivalent about, but have experience with:
 
 * JavaScript (since 2009)
 * Ruby (since 2007)
-
 * Java (2014)
 * Rails (2008-2014)
 * iOS (2012, 1 app)
