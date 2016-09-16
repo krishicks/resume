@@ -22,8 +22,9 @@ My hobbies include travel, photography, and reading.
 I have been a consultant for a number of years, and am comfortable with
 TDD/BDD, pairing, and refactoring legacy code. My most recent experience is in
 cloud infrastructure. I am an evangelist of Cloud Foundry, BOSH, and Concourse.
+My preferred development environment is Vim on Linux.
 
-I have recent experience with, and/or prefer to continue using:
+I have recent experience with, and prefer to continue using:
 
 * Git (since 2009)
 * Go (since 2014)
@@ -31,7 +32,8 @@ I have recent experience with, and/or prefer to continue using:
 * PostgreSQL (since 2011)
 * BOSH (since 2014)
 * Cloud Foundry (since 2014)
-* Concourse (since 2016)
+* Concourse
+* Linux
 
 I am mostly ambivalent about, but have experience with:
 
@@ -43,19 +45,49 @@ I am mostly ambivalent about, but have experience with:
 
 # Experience
 
-## Senior Developer - Pivotal, 2014-
+### Senior Developer - Pivotal, 2014-
 
-I originally contracted with Pivotal to work on CloudFoundry. I wanted to work
-on an open source project for once, and ended up working on multiple, including
-BOSH and Diego. I also spent some time as a PCF Solutions Architect, helping
-Comcast make a plan for and implementing splitting of their Enterprise Services
-Platform into microservices suitable for running on Cloud Foundry.
+I rejoined Pivotal to work on open source projects, and to refresh my skills as
+a consultant.
 
-I went full-time at Pivotal in 2015, where I worked on the CF CLI, Concourse,
-and Security teams. I led a major effort to refactor and modernize the CF CLI
-codebase.
+I have experience on the following teams and products, with thousands of
+commits to my name:
 
-## Lead Developer, CTO - DaisyBill, 2013-2014
+* BOSH
+* Diego
+* CF CLI
+* PCF Solutions
+* Concourse
+
+I first started writing Go on [BOSH]), as one of the initial authors of the Go
+BOSH micro CLI (now [bosh-init](https://github.com/cloudfoundry/bosh-init)). I
+continued writing Go on the Diego team during a major refactor for performance
+prior to it becoming the default runtime for Cloud Foundry.
+
+I was on-site at Comcast as a PCF Solutions Architect helping make a plan for
+and implementing splitting of their Enterprise Services Platform into
+microservices suitable for running on Cloud Foundry. This included pairing with
+Comcast developers, teaching them TDD, Git, how to set up and use a CI/CD
+pipeline, in addition to developing Cloud Foundry-based solutions to their
+architecture concerns.
+
+I authored [CVE-2016-0896](https://pivotal.io/security/cve-2016-0896), the
+associated [Knowledge
+Base](https://discuss.pivotal.io/hc/en-us/articles/223312627) article, and a
+tool to help mitigate it, [ASG
+Creator](https://github.com/cloudfoundry-incubator/asg-creator).
+
+I spent a month in Sydney helping bring a Fujitsu developer up to speed on Go,
+TDD, and pairing while working on the CF CLI. I also led a major, multi-month
+effort to refactor and modernize the CF CLI codebase. I am the owner of 160+
+stories in the [CF CLI Pivotal
+Tracker](https://www.pivotaltracker.com/n/projects/892938) to that effect
+(search for `owner:KH includedone:true`)
+
+On the PCF Security Enablement team I built a more robust solution to the
+problem of scanning GitHub repositories for credentials.
+
+### Lead Developer, CTO - DaisyBill, 2013-2014
 
 I joined DaisyBill to experience what it was like both to work at an
 early-stage startup and to have a stronger voice in the development of the
@@ -64,7 +96,7 @@ features from concept to planning to implementation, harnessing skills gained
 over years of consulting. I single-handedly transformed the product, allowing
 DaisyBill to both bring on new customers and better serve existing customers.
 
-## Senior Consultant - Pivotal Labs, 2011-2013
+### Senior Consultant - Pivotal Labs, 2011-2013
 
 * CaseCommons (casebook) - 8 months
 * Sony (X-Factor USA) - 3 months
@@ -84,7 +116,7 @@ While at Pivotal I took on a role where I was available for Git consulting for
 clients of Pivotal, in addition to giving a talk to a Pivotal Labs Tech Talks
 audience in 2012 on Git.
 
-## Consultant, Senior Consultant - ThoughtWorks, 2009-2011
+### Consultant, Senior Consultant - ThoughtWorks, 2009-2011
 
 * Manheim (OVE.com) - 17 months
 * Hearst (Prime-A-Pump) - 3 months
@@ -110,7 +142,7 @@ government news site. I did a fair amount of front-end work, but also
 contributed to the system that pulled up news articles from the Terminal and
 configured them for display on BGOV.
 
-## Temp, Junior Developer - First American Title, 2006-2008
+### Temp, Junior Developer - First American Title, 2006-2008
 
 * Bespoke automation framework
 
