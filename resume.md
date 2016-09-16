@@ -2,7 +2,7 @@ Kris Hicks
 krishicks [@gmail.com | .com]  
 San Francisco  
 
-#### About Me
+# About Me
 
 I started teaching myself programming in 2007, using VBA. I quickly switched to
 learning Ruby, eventually getting a position as a consultant at ThoughtWorks,
@@ -17,7 +17,7 @@ the product is structured, and how the data backing the product is structured.
 
 My hobbies include travel, photography, and reading.
 
-#### Skills
+# Skills
 
 I have been a consultant for a number of years, and am comfortable with
 TDD/BDD, pairing, and refactoring legacy code. My most recent experience is in
@@ -41,9 +41,9 @@ I am mostly ambivalent about, but have experience with:
 * Rails (2008-2014)
 * iOS (2012, 1 app)
 
-#### Experience
+# Experience
 
-##### Senior Developer - Pivotal, 2014-
+## Senior Developer - Pivotal, 2014-
 
 I originally contracted with Pivotal to work on CloudFoundry. I wanted to work
 on an open source project for once, and ended up working on multiple, including
@@ -55,7 +55,7 @@ I went full-time at Pivotal in 2015, where I worked on the CF CLI, Concourse,
 and Security teams. I led a major effort to refactor and modernize the CF CLI
 codebase.
 
-##### Lead Developer, CTO - DaisyBill, 2013-2014
+## Lead Developer, CTO - DaisyBill, 2013-2014
 
 I joined DaisyBill to experience what it was like both to work at an
 early-stage startup and to have a stronger voice in the development of the
@@ -64,7 +64,7 @@ features from concept to planning to implementation, harnessing skills gained
 over years of consulting. I single-handedly transformed the product, allowing
 DaisyBill to both bring on new customers and better serve existing customers.
 
-##### Senior Consultant - Pivotal Labs, 2011-2013
+## Senior Consultant - Pivotal Labs, 2011-2013
 
 * CaseCommons (casebook) - 8 months
 * Sony (X-Factor USA) - 3 months
@@ -84,7 +84,7 @@ While at Pivotal I took on a role where I was available for Git consulting for
 clients of Pivotal, in addition to giving a talk to a Pivotal Labs Tech Talks
 audience in 2012 on Git.
 
-##### Consultant, Senior Consultant - ThoughtWorks, 2009-2011
+## Consultant, Senior Consultant - ThoughtWorks, 2009-2011
 
 * Manheim (OVE.com) - 17 months
 * Hearst (Prime-A-Pump) - 3 months
@@ -110,7 +110,7 @@ government news site. I did a fair amount of front-end work, but also
 contributed to the system that pulled up news articles from the Terminal and
 configured them for display on BGOV.
 
-##### Temp, Junior Developer - First American Title, 2006-2008
+## Temp, Junior Developer - First American Title, 2006-2008
 
 * Bespoke automation framework
 
