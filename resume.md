@@ -59,7 +59,7 @@ commits to my name:
 * PCF Solutions
 * Concourse
 
-I first started writing Go on [BOSH]), as one of the initial authors of the Go
+I first started writing Go on BOSH), as one of the initial authors of the Go
 BOSH micro CLI (now [bosh-init](https://github.com/cloudfoundry/bosh-init)). I
 continued writing Go on the Diego team during a major refactor for performance
 prior to it becoming the default runtime for Cloud Foundry.
