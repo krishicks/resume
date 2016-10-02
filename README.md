@@ -40,7 +40,7 @@ work on Cloud Foundry.
 * Standing desk (I've used standing desks exclusively since 2011)
 * Relative quiet (vast, loud, open floorplans packed with people aren't for me)
 * A robust software engineering practice using some kind of project management
- tool (e.g. [Pivotal Tracker](https://www.pivotaltracker.com) or the desire
+ tool (e.g. [Pivotal Tracker](https://www.pivotaltracker.com)) or the desire
  to do so
 * "Agile" development process; basically any process that includes short
  iterations and quick feedback rather than a waterfall process
