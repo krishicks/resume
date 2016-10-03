@@ -4,8 +4,8 @@ San Francisco
 
 # tl;dr
 
-* Self-taught software engineer
-* 4 years as a software consultant (ThoughtWorks, Pivotal Labs)
+* Self-taught software engineer since 2007
+* [ThoughtWorks](https://www.thoughtworks.com) (2 years), [Pivotal Labs](https://pivotal.io/labs) (2 years), [DaisyBill](http://www.daisybill.com/) (1 year), [Pivotal](https://pivotal.io) (2.5 years)
 * Git, Go, Linux, Ruby, Vim, PostgreSQL, [BOSH](https://bosh.io), [Cloud
   Foundry](https://www.cloudfoundry.org), [Concourse](http://concourse.ci/)
 * High school dropout
@@ -40,12 +40,12 @@ work on Cloud Foundry.
 * Standing desk (I've used standing desks exclusively since 2011)
 * Relative quiet (vast, loud, open floorplans packed with people aren't for me)
 * A robust software engineering practice using some kind of project management
- tool (e.g. [Pivotal Tracker](https://www.pivotaltracker.com)) or the desire
+ tool (e.g. [Pivotal Tracker](https://www.pivotaltracker.com) or the desire
  to do so
 * "Agile" development process; basically any process that includes short
- iterations and quick feedback rather than a waterfall process
+ iterations, frequent production releases and quick feedback rather than a waterfall process
 
-# Significant open source contributions
+# Notable open source contributions
 
 Repository | Commits
 --- | ---
@@ -55,6 +55,8 @@ cloudfoundry/bosh-init | 150
 cloudfoundry/diego-release | 223
 cloudfoundry/cli | 438
 concourse/concourse | 231
+
+## GitHub Summary
 
 Year | Contributions
 --- | ---
