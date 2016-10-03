@@ -4,15 +4,13 @@ San Francisco
 
 # tl;dr
 
-* Self-taught software engineer since 2007
+* Software Engineer since 2007
 * [ThoughtWorks](https://www.thoughtworks.com) (2 years), [Pivotal Labs](https://pivotal.io/labs) (2 years), [DaisyBill](http://www.daisybill.com/) (1 year), [Pivotal](https://pivotal.io) (2.5 years)
-* Git, Go, Linux, Ruby, Vim, PostgreSQL, [BOSH](https://bosh.io), [Cloud
-  Foundry](https://www.cloudfoundry.org), [Concourse](http://concourse.ci/)
-* High school dropout
+* Git, Go, Linux, Ruby, Vim, PostgreSQL, [BOSH](https://bosh.io), [Cloud Foundry](https://www.cloudfoundry.org), [Concourse](http://concourse.ci/)
 * Passionate about FOSS software and delivering business value
 * Full-time pairing and doing TDD/BDD since 2009
-* 6 years working various jobs before getting into software
-* World traveler; ~500k miles in the air since 2009
+* High school dropout; 6 years working various jobs before getting into software
+* World traveler; India, Australia, England, Germany, Argentina
 
 I started teaching myself programming in 2007 using VBA. After solving a
 particular problem with VBA, I started learning Ruby to build a better solution
