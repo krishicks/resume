@@ -40,7 +40,7 @@ work on Cloud Foundry.
 * Standing desk (I've used standing desks exclusively since 2011)
 * Relative quiet (vast, loud, open floorplans packed with people aren't for me)
 * A robust software engineering practice using some kind of project management
- tool (e.g. [Pivotal Tracker](https://www.pivotaltracker.com) or the desire
+ tool (e.g. [Pivotal Tracker](https://www.pivotaltracker.com)) or the desire
  to do so
 * "Agile" development process; basically any process that includes short
  iterations, frequent production releases and quick feedback rather than a waterfall process
@@ -120,7 +120,7 @@ DaisyBill to both bring on new customers and better serve existing customers.
 
 * CaseCommons (casebook) - 8 months
 * Sony (X-Factor USA) - 3 months
-* IntentMedia (Exit Units) - 7 months
+* Intent Media (Exit Units) - 7 months
 * Cabulous (Flywheel) - 7 months
 
 I joined Pivotal Labs on moving to NYC. I worked on a variety of projects, from
