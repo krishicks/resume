@@ -1,6 +1,7 @@
 Kris Hicks  
-San Francisco
-[krishicks@gmail.com](mailto:krishicks@gmail.com)
+===
+San Francisco  
+[krishicks@gmail.com](mailto:krishicks@gmail.com)  
 [krishicks.com](http://krishicks.com)
 
 ### tl;dr
