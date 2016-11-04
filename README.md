@@ -5,7 +5,7 @@ San Francisco
 ### tl;dr
 
 * Software Engineer since 2007
-* [ThoughtWorks](https://www.thoughtworks.com) (2 years), [Pivotal Labs](https://pivotal.io/labs) (2 years), [DaisyBill](http://www.daisybill.com/) (1 year), [Pivotal](https://pivotal.io) (2.5 years)
+* [Pivotal](https://pivotal.io), [ThoughtWorks](https://www.thoughtworks.com), [DaisyBill](http://www.daisybill.com/)
 * Git, Go, Linux, Ruby, Vim, PostgreSQL, [BOSH](https://bosh.io), [Cloud Foundry](https://www.cloudfoundry.org), [Concourse](http://concourse.ci/)
 * Passionate about FOSS software and delivering business value
 * Full-time pairing and doing TDD/BDD since 2009
