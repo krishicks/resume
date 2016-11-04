@@ -49,7 +49,7 @@ I have experience on the following OSS teams and products, in addition to many p
 * [cloudfoundry/cli](https://github.com/cloudfoundry/cli)
 * [concourse/concourse](https://github.com/concourse/concourse)
 
-I first started writing Go on BOSH, as one of the initial authors of the Go BOSH micro CLI (now [bosh-init](https://github.com/cloudfoundry/bosh-init)). I continued writing Go on the Diego team during a major refactor for performance prior to it becoming the default runtime for Cloud Foundry.
+I first started writing Go on BOSH, an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems, as one of the initial authors of the Go BOSH micro CLI (now [bosh-init](https://github.com/cloudfoundry/bosh-init)). I continued writing Go while working on Diego, Pivotal's container scheduler, during a major refactor for performance prior to it becoming the default container scheduler for Cloud Foundry.
 
 I was on-site at Comcast as a PCF Solutions Architect helping make a plan for and implementing splitting of their Enterprise Services Platform into microservices suitable for running on Cloud Foundry. This included pairing with Comcast developers, teaching them TDD, Git, how to set up and use a CI/CD pipeline, in addition to developing Cloud Foundry-based solutions to their architecture concerns.
 
