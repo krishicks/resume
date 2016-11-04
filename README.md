@@ -66,11 +66,6 @@ I joined DaisyBill to experience what it was like both to work at an early-stage
 
 #### Senior Consultant - Pivotal Labs, 2011-2013
 
-* CaseCommons (casebook) - 8 months
-* Sony (X-Factor USA) - 3 months
-* Intent Media (Exit Units) - 7 months
-* Cabulous (Flywheel) - 7 months
-
 I joined Pivotal Labs on moving to NYC. I worked on a variety of projects, from large Rails projects with 25+ developers, to projects with a single developer.  I quickly learned and became effective in a previously unknown-to-me language (Java) at Intent Media, where I was one of the main developers of their Exit Unit product. I also directed Intent Media's Git workflow.
 
 I also worked on an iOS app, my first foray into mobile, which was a great success for the client and a fantastic learning experience for me.
@@ -78,10 +73,6 @@ I also worked on an iOS app, my first foray into mobile, which was a great succe
 While at Pivotal I took on a role where I was available for Git consulting for clients of Pivotal, in addition to giving a talk to a Pivotal Labs Tech Talks audience in 2012 on Git.
 
 #### Consultant, Senior Consultant - ThoughtWorks, 2009-2011
-
-* Manheim (OVE.com) - 17 months
-* Hearst (Prime-A-Pump) - 3 months
-* Bloomberg (BGOV.com) - 3 months
 
 I joined ThoughtWorks when I decided I wanted to become a better developer and would learn best on a team with skilled developers, rather than work alone.  This was my first foray into Rails, TDD, pair-programming, and working on a team larger than one.
 
@@ -92,7 +83,5 @@ At Hearst I was part of a small team that developed a site which ended up not go
 At Bloomberg I was part of a large team that developed BGOV.com, Bloomberg's government news site. I did a fair amount of front-end work, but also contributed to the system that pulled up news articles from the Terminal and configured them for display on BGOV.
 
 #### Temp, Junior Developer - First American Title, 2006-2008
-
-* Bespoke automation framework
 
 This is where I began my journey to become a software developer. I was initially hired as a temp doing data entry. Through a series of fortunate events my efforts to improve my job were noted and I was given opportunities to work on some basic automation software. The software ended up not delivering as they'd hoped due to a small feature-set and no extensibility. However, I was inspired to teach myself programming and develop my own solution. The solution was an automation framework built on top of a testing framework, WATIR, which was used to automate the browser. It was Ruby on Windows, packaged in a self-extracting executable. It was deployed to production and used to greatly reduce the cost of and increase the speed and accuracy of data entry.
