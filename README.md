@@ -37,7 +37,7 @@ I started teaching myself programming in 2007 using VBA. After solving a particu
 
 ### History
 
-#### Senior Software Engineer - Pivotal, 2014-
+#### Staff Software Engineer - Pivotal, 2014-
 
 I rejoined Pivotal to work on open source projects, and to refresh my skills as a consultant.
 
