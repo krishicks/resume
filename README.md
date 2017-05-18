@@ -4,7 +4,9 @@ San Francisco
 [krishicks@gmail.com](mailto:krishicks@gmail.com)  
 [krishicks.com](http://krishicks.com)
 
-~10 years of experience as a software engineer. I have experience and a
+## tl;dr
+
+10 years of experience as a software engineer. I have experience and a
 continuing interest in solving the sort of problems Golang is suitable for,
 continuous integration/delivery, build and release, and product/project
 management. I've done test-driven development and various flavors of agile
