@@ -10,7 +10,6 @@ continuous integration/delivery, build and release, and product/project
 management. I've done test-driven development and various flavors of agile
 since 2009, including full-time pairing.
 
----
 ## Timeline
 
 * 2007
@@ -28,7 +27,6 @@ since 2009, including full-time pairing.
 > Cloud Foundry, deployment ("build and release"), distributed systems, product
 > and project management.
 
----
 ## Recent work
 
 * [`yaml-patch`](https://github.com/krishicks/yaml-patch), a library for creating
@@ -38,7 +36,6 @@ RFC6902 ("JSON Patch") patches, but in YAML.
   of Concourse pipelines for installing and upgrading Pivotal Cloud Foundry and
   its addons.
 
----
 ## What makes me tick
 
 * Delivering business value first and foremost
@@ -49,7 +46,6 @@ RFC6902 ("JSON Patch") patches, but in YAML.
 * Improving the interview process for software engineers
 * Improving my ability and the ability of others to deliver software
  
----
 ## What I look for in a workplace
 
 * Feedback-friendly culture with short feedback cycles
