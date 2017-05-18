@@ -14,29 +14,15 @@ since 2009, including full-time pairing.
 
 ## Timeline
 
-### 2007
+**2007 |** Started teaching myself software engineering with Ruby.
 
-> Started teaching myself software engineering with Ruby.
+**2009 |** Joined ThoughtWorks as a consultant and gained VCS, TDD, CI, and pairing experience, in addition learning how to write well-designed software.
 
-### 2009
+**2011 |** Joined Pivotal Labs where I did more consulting in the same spirit as at ThoughtWorks, and also gained PostgreSQL experience.
 
-> Joined ThoughtWorks as a consultant and gained VCS, TDD, CI, and pairing
-> experience, in addition learning how to write well-designed software.
+**2013 |** Joined DaisyBill, a startup, to take a break from consulting.
 
-### 2011
-
-> Joined Pivotal Labs where I did more consulting in the same spirit as at
-> ThoughtWorks, and also gained PostgreSQL experience.
-
-### 2013
-
-> Joined DaisyBill, a startup, to take a break from consulting.
-
-### 2014
-
-> Joined Pivotal to work on Cloud Foundry, where I gained experience in Go, BOSH,
-> Cloud Foundry, deployment ("build and release"), distributed systems, product
-> and project management.
+**2014 |** Joined Pivotal to work on Cloud Foundry, where I gained experience in Go, BOSH, Cloud Foundry, deployment ("build and release"), distributed systems, product and project management.
 
 ## Recent work
 
