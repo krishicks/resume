@@ -7,7 +7,7 @@ San Francisco
 ## tl;dr
 
 10 years of experience as a software engineer. I have experience and a
-continuing interest in solving the sort of problems Golang is suitable for,
+continuing interest in solving the sort of problems Go is suitable for,
 continuous integration/delivery, build and release, and product/project
 management. I've done test-driven development and various flavors of agile
 since 2009, including full-time pairing.
@@ -34,9 +34,9 @@ since 2009, including full-time pairing.
 
 ### 2014
 
-> Joined Pivotal to work on Cloud Foundry, where I gained experience in Go, BOSH,
-> Cloud Foundry, deployment ("build and release"), distributed systems, product
-> and project management.
+> Joined Pivotal to work on Cloud Foundry, where I gained experience in Go,
+> BOSH, Cloud Foundry, deployment ("build and release"), distributed systems,
+> product and project management.
 
 ## Recent work
 
