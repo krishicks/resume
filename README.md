@@ -12,16 +12,6 @@ continuous integration/delivery, build and release, and product/project
 management. I've done test-driven development and various flavors of agile
 since 2009, including full-time pairing.
 
-## Recent work
-
-* [`yaml-patch`](https://github.com/krishicks/yaml-patch): a library for creating
-RFC6902 ("JSON Patch") patches, but in YAML
-* [`pg2mysql`](https://github.com/pivotal-cf/pg2mysql): a library for migrating
-  data from PostgreSQL to MySQL
-* [`pcf-pipelines`](https://github.com/pivotal-cf/pcf-pipelines): a collection
-  of Concourse pipelines for installing and upgrading Pivotal Cloud Foundry and
-  its addons
-
 ## What makes me tick
 
 * Delivering business value first and foremost
@@ -41,3 +31,13 @@ RFC6902 ("JSON Patch") patches, but in YAML
 * Relative quiet (vast, loud, open floorplans packed with people aren't for me)
 * A robust software engineering practice using some kind of project management tool (e.g. Pivotal Tracker) or the desire to do so
 * "Agile" development process; basically any process that includes short iterations, frequent production releases and quick feedback rather than a waterfall process
+
+## Recent work
+
+* [`yaml-patch`](https://github.com/krishicks/yaml-patch): a library for creating
+RFC6902 ("JSON Patch") patches, but in YAML
+* [`pg2mysql`](https://github.com/pivotal-cf/pg2mysql): a library for migrating
+  data from PostgreSQL to MySQL
+* [`pcf-pipelines`](https://github.com/pivotal-cf/pcf-pipelines): a collection
+  of Concourse pipelines for installing and upgrading Pivotal Cloud Foundry and
+  its addons
