@@ -18,7 +18,7 @@ since 2009, including full-time pairing.
 * Solving problems with a pragmatic approach to testing and implementation
 * Deep-dives into code to root out a bug or improve understanding of the code
 * Building new systems, refactoring old ones
-* Teaching people about Git and Git workflows, Vim
+* Teaching people about Git, Vim, and Go
 * Improving the interview process for software engineers
 * Improving my ability and the ability of others to deliver software
 
