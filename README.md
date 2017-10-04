@@ -21,7 +21,7 @@ Distributed systems (BOSH, Diego), configuration and secrets management, contain
 ## Selected History (reverse-chronological)
 
 * Architect and primary engineer of [`pcf-pipelines`](https://github.com/pivotal-cf/pcf-pipelines), a collection of CI pipelines-as-code for deploying and upgrading Pivotal Cloud Foundry
-* Architect and sole engineer of [`pg2mysql`](https://github.com/pivotal-cf/pg2mysql), a fast and safe tool for migrating data from PostgreSQL to MySQL, and [`yaml-patch`](https://github.com/krishicks/yaml-patch), a complete re-implementation of [RFC6902](https://tools.ietf.org/html/rfc6902) in YAML
+* Architect and sole engineer of [`pg2mysql`](https://github.com/pivotal-cf/pg2mysql), a fast and safe tool for migrating data from PostgreSQL to MySQL, and [`yaml-patch`](https://github.com/krishicks/yaml-patch), a complete re-implementation of [RFC6902](https://tools.ietf.org/html/rfc6902) for YAML documents
 * Numerous talks on best practices for CI/CD and Git
 * Originated idea and implemented a [system](https://github.com/pivotal-cf/cred-alert/tree/master/src/cred-alert/revok) for scanning Git repositories for secrets, replacing an inadequate prior attempt
 * Reigned in massive technical debt while technical lead of the Cloud Foundry CLI
