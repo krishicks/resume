@@ -9,9 +9,9 @@ San Francisco
 * 10 years of experience as a software engineer, originally self-taught
 * Broad experience beyond software engineering (see below)
 * Highly experienced with Ruby, Go, shell, SQL
-* Currently a Staff Engineer at [Pivotal](www.pivotal.io)
-* Previously a consultant at [ThoughtWorks](www.thoughtworks.com) and [Pivotal Labs](https://pivotal.io/labs), Lead Developer at [DaisyBill](www.daisybill.com)
-* Core contributor to [Cloud Foundry](www.cloudfoundry.org) (BOSH, Diego, CLI) and [Concourse](www.concourse.ci)
+* Currently a Staff Engineer at [Pivotal](https://pivotal.io/)
+* Previously a consultant at [ThoughtWorks](https://www.thoughtworks.com/) and [Pivotal Labs](https://pivotal.io/labs), Lead Developer at [DaisyBill](https://www.daisybill.com)
+* Core contributor to [Cloud Foundry](https://www.cloudfoundry.org) (BOSH, Diego, CLI) and [Concourse](https://concourse.ci)
 * Technical lead for multiple small- to medium-sized teams
 
 ## Experience
