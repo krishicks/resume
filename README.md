@@ -6,13 +6,32 @@ San Francisco
 
 ## tl;dr
 
-10 years of experience as a software engineer. I have experience and a
-continuing interest in solving the sort of problems Go is suitable for,
-continuous integration/delivery, build and release, and product/project
-management. I've done test-driven development and various flavors of agile
-since 2009, including full-time pairing.
+* 10 years of experience as a software engineer, originally self-taught
+* Broad experience beyond software engineering (see below)
+* Highly experienced with Ruby, Go, shell, SQL
+* Currently a Staff Engineer at [Pivotal](www.pivotal.io)
+* Previously a consultant at [ThoughtWorks](www.thoughtworks.com) and [Pivotal Labs](https://pivotal.io/labs), Lead Developer at [DaisyBill](www.daisybill.com)
+* Core contributor to [Cloud Foundry](www.cloudfoundry.org) (BOSH, Diego, CLI) and [Concourse](www.concourse.ci)
+* Technical lead for multiple small- to medium-sized teams
 
-## What makes me tick
+## Experience
+
+Distributed systems (BOSH, Diego), configuration and secrets management, containers (Docker, Garden), 12-factor/cloud native application transformation, build and release, continuous integration and deployment (Jenkins, GoCD, Concourse), testing, infrastructure-as-code (Terraform), pipelines-as-code, network, application, and physical security, agile transformation, product development, AWS, GCP, and vSphere, Git branching strategies, monitoring and alerting (DataDog, Sentry), and customer success.
+
+## Selected History (reverse-chronological)
+
+* Architect and primary engineer of [`pcf-pipelines`](https://github.com/pivotal-cf/pcf-pipelines), a collection of CI pipelines-as-code for deploying and upgrading Pivotal Cloud Foundry
+* Architect and sole engineer of [`pg2mysql`](https://github.com/pivotal-cf/pg2mysql), a fast and safe tool for migrating data from PostgreSQL to MySQL, and [`yaml-patch`](https://github.com/krishicks/yaml-patch), a complete re-implementation of [RFC6902](https://tools.ietf.org/html/rfc6902) in YAML
+* Numerous talks on best practices for CI/CD and Git
+* Originated idea and implemented a [system](https://github.com/pivotal-cf/cred-alert/tree/master/src/cred-alert/revok) for scanning Git repositories for secrets, replacing an inadequate prior attempt
+* Reigned in massive technical debt while technical lead of the Cloud Foundry CLI
+* Created a new product and revenue stream at DaisyBill
+* Wrote a parser for EDI ANSI X12 documents
+* Implemented a stored procedure in PostgreSQL to reduce query of 1.2mm records from 80+ seconds to 300ms
+* Led a major rewrite of an online bidding platform
+* Developed an automation framework that drove IE6, resulting in a 75-100x improvement in speed and elimination of errors in a data entry system
+
+## Interests
 
 * Delivering business value first and foremost
 * Solving problems with a pragmatic approach to testing and implementation
@@ -27,17 +46,7 @@ since 2009, including full-time pairing.
 * Feedback-friendly culture with short feedback cycles
 * A working environment where asking questions is seen as a good thing
 * Ability to use whatever tool is most suitable to solve a problem
-* Standing desk (I've used standing desks exclusively since 2011)
+* Access to a standing desk and a Linux workstation
 * Relative quiet (vast, loud, open floorplans packed with people aren't for me)
 * A robust software engineering practice using some kind of project management tool (e.g. Pivotal Tracker) or the desire to do so
 * "Agile" development process; basically any process that includes short iterations, frequent production releases and quick feedback rather than a waterfall process
-
-## Recent work
-
-* [`yaml-patch`](https://github.com/krishicks/yaml-patch): a library for creating
-RFC6902 ("JSON Patch") patches, but in YAML
-* [`pg2mysql`](https://github.com/pivotal-cf/pg2mysql): a library for migrating
-  data from PostgreSQL to MySQL
-* [`pcf-pipelines`](https://github.com/pivotal-cf/pcf-pipelines): a collection
-  of Concourse pipelines for installing and upgrading Pivotal Cloud Foundry and
-  its addons
