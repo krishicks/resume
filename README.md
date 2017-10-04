@@ -44,7 +44,7 @@ Distributed systems (BOSH, Diego), configuration and secrets management, contain
 ## What I look for in a workplace
 
 * Feedback-friendly culture with short feedback cycles
-* A working environment where asking questions is seen as a good thing
+* A working environment where questions are seen as essential for knowledge transfer
 * Ability to use whatever tool is most suitable to solve a problem
 * Access to a standing desk and a Linux workstation
 * Relative quiet (vast, loud, open floorplans packed with people aren't for me)
