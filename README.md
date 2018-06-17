@@ -9,14 +9,14 @@ San Francisco
 * 10 years of experience as a software engineer, originally self-taught
 * Broad experience beyond software engineering (see below)
 * Highly experienced with Ruby, Go, shell, SQL
-* Currently a Staff Engineer at [Pivotal](https://pivotal.io/)
-* Previously a consultant at [ThoughtWorks](https://www.thoughtworks.com/) and [Pivotal Labs](https://pivotal.io/labs), Lead Developer at [DaisyBill](https://www.daisybill.com)
+* Currently a SWE-SRE at [LightStep](https://www.lightstep.com)
+* Previously a Staff Engineer at [Pivotal](https://pivotal.io/), consultant at [ThoughtWorks](https://www.thoughtworks.com/) and [Pivotal Labs](https://pivotal.io/labs), Lead Developer at [DaisyBill](https://www.daisybill.com)
 * Core contributor to [Cloud Foundry](https://www.cloudfoundry.org) (BOSH, Diego, CLI) and [Concourse](https://concourse.ci)
 * Technical lead for multiple small- to medium-sized teams
 
 ## Experience
 
-Distributed systems (BOSH, Diego), configuration and secrets management, containers (Docker, Garden), 12-factor/cloud native application transformation, build and release, continuous integration and deployment (Jenkins, GoCD, Concourse), testing, infrastructure-as-code (Terraform), pipelines-as-code, network, application, and physical security, agile transformation, product development, AWS, GCP, and vSphere, Git branching strategies, monitoring and alerting (DataDog, Sentry), and customer success.
+Distributed systems (BOSH, Diego, Kubernetes), configuration and secrets management, containers (Docker, Garden), 12-factor/cloud native application transformation, build and release, continuous integration and deployment (Jenkins, GoCD, Concourse), testing, infrastructure-as-code (Terraform), pipelines-as-code, network, application, and physical security, agile transformation, product development, AWS, GCP, and vSphere, Git branching strategies, monitoring and alerting (DataDog, Sentry), and customer success.
 
 ## Selected History (reverse-chronological)
 
