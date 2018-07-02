@@ -14,7 +14,7 @@ Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the 
   * R&D on [Cloud Foundry](https://www.cloudfoundry.org)
     * Led a revamp/refactoring of the Cloud Foundry CLI
     * On the Security Enablement team implemented a mechanism to scan all Cloud Foundry git repositories for secrets
-    * Various work on [BOSH](https://github.com/cloudfoundry/bosh), [BOSH CLI](https://github.com/cloudfoundry/bosh), Diego
+    * Various work on [BOSH](https://github.com/cloudfoundry/bosh), [BOSH CLI](https://github.com/cloudfoundry/bosh-cli), Diego
   * [Concourse](https://concourse-ci.org)
     * Worked on many aspects; BOSH release, scheduler, CLI
   * Solutions Architect
