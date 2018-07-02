@@ -59,10 +59,15 @@ Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the 
 * Working on infrastructure-as-code and continuous integration/continuous deployment
 * Development in Go
 * Using agile methodologies to build software
+* Deploying onto Kubernetes
 
 #### Investigate
 
 * Development in another language: Rust, Elixir, Elm
+
+#### Do less of
+
+* Development in Ruby
 
 ## What I look for in a workplace
 
