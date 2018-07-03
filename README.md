@@ -4,42 +4,36 @@ San Francisco
 <[krishicks@gmail.com](mailto:krishicks@gmail.com)>
 <[LinkedIn](https://www.linkedin.com/in/kris-hicks-a6123a161/)>
 
-## About me
+### About me
 
 Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the job I had then. Since then I've worked in a variety of domains and technologies as a software engineer, site reliability engineer, and solutions architect as well as doing project management and product development.
 
-### Past (reverse-chrono)
+### What I look for in a workplace
 
-#### Staff Engineer at [Pivotal](https://pivotal.io/)
-  * R&D on [Cloud Foundry](https://www.cloudfoundry.org)
-    * Led a revamp/refactoring of the Cloud Foundry CLI
-    * On the Security Enablement team implemented a mechanism to scan all Cloud Foundry git repositories for secrets
-    * Various work on [BOSH](https://github.com/cloudfoundry/bosh), [BOSH CLI](https://github.com/cloudfoundry/bosh-cli), Diego
-  * [Concourse](https://concourse-ci.org)
-    * Worked on many aspects; BOSH release, scheduler, CLI
-  * Solutions Architect
-    * Devised multiple solutions for Comcast in their transition to [Pivotal Cloud Foundry](https://pivotal.io/platform)
-    * Created documentation/mititgation for multiple network-related Pivotal Cloud Foundry CVEs
-  * Customer[0]
-    * Lead Engineer
-    * Took over an internal project and made it into a viable customer-facing product, [pcf-pipelines](https://github.com/pivotal-cf/pcf-pipelines), which uses Terraform and Concourse to deploy Pivotal Cloud Foundry
-    * Created [pg2mysql](https://github.com/pivotal-cf/pg2mysql) to migrate PCF customers from PostgreSQL to MySQL, the third such attempt and the only one that worked
-    * Brought in as a champion of PCF and knowledge expert regarding multiple aspects of PCF during pre-sales calls
+* Feedback-friendly culture with short feedback cycles
+* A working environment where questions are seen as essential for knowledge transfer and growth
+* Ability to use whatever tool is most suitable to solve a problem
+* Access to a standing desk and a Linux workstation
+* Relative quiet (loud, open floorplans packed with people aren't for me)
+* A robust software engineering practice using some kind of project management tool (e.g. Pivotal Tracker) or the desire to do so
+* "Agile" development process; basically any process that includes short iterations, frequent production releases and quick feedback rather than a waterfall process
 
-#### Lead Developer at [DaisyBill](https://www.daisybill.com)
-  * Lots of Ruby, SQL
-  * Designed and implemented a new product to add a revenue stream
+### What I want to continue doing
 
-#### Consultant at [Pivotal Labs](https://pivotal.io/labs)
-  * Mostly Ruby/Rails websites as well as one iOS 5 app, one JRuby website
+* Be a multiplier for other engineers, internal and external
+* Work on infrastructure-as-code and continuous integration/continuous deployment
+* Development in Go
+* Use agile methodologies to build software
+* Interview stakeholders, discover problems, create solutions
+* Deployments onto Kubernetes
 
-#### Consultant at [ThoughtWorks](https://www.thoughtworks.com/)
-  * All Ruby/Rails work
-  * Part of a pair that led a rewrite of the core bidding algorithm for a large wholesale auto auction website
+### What I want to start doing
 
-### Present
+* Development in another language, possibly Rust
 
-#### SWE-SRE at [LightStep](https://www.lightstep.com)
+### Work Experience
+
+#### Currently: SWE-SRE at [LightStep](https://www.lightstep.com)
 
 * Created robust build and release pipelines in Concourse
 * Dockerfile updates to build Go binaries uniformly and quickly
@@ -51,30 +45,24 @@ Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the 
 * Led conversion of existing infrastructure to Terraform, used Terraform for new infrastructure
 * Lots of work with [helm](https://helm.sh) charts to standardize config
 
-### Future
+#### Previously: Staff Engineer at [Pivotal](https://pivotal.io/) (2014-2017)
+* R&D on [Cloud Foundry](https://www.cloudfoundry.org)
+  * Led a revamp/refactoring of the [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) (Go)
+  * On the Security Enablement team implemented a mechanism to scan all Cloud Foundry git repositories for secrets
+  * Various work on [BOSH](https://github.com/cloudfoundry/bosh), [BOSH CLI](https://github.com/cloudfoundry/bosh-cli), Diego
+* [Concourse](https://concourse-ci.org)
+  * Worked on many aspects; BOSH release, scheduler, CLI
+* Solutions Architect
+  * Devised multiple solutions for Comcast in their transition to [Pivotal Cloud Foundry](https://pivotal.io/platform)
+  * Created documentation/mititgation for multiple network-related Pivotal Cloud Foundry CVEs
+* Customer[0]
+  * Took over an internal project and made it into a viable customer-facing product, [pcf-pipelines](https://github.com/pivotal-cf/pcf-pipelines), which uses Terraform and Concourse to deploy Pivotal Cloud Foundry
+  * Created [pg2mysql](https://github.com/pivotal-cf/pg2mysql) to migrate PCF customers from PostgreSQL to MySQL, the third such attempt and the only one that worked
+  * Brought in as a champion of PCF and knowledge expert regarding multiple aspects of PCF during pre-sales calls
 
-#### Continue
+#### Past Roles
 
-* Being a multiplier for other engineers
-* Working on infrastructure-as-code and continuous integration/continuous deployment
-* Development in Go
-* Using agile methodologies to build software
-* Deploying onto Kubernetes
-
-#### Investigate
-
-* Development in another language: Rust, Elixir, Elm
-
-#### Do less of
-
-* Development in Ruby
-
-## What I look for in a workplace
-
-* Feedback-friendly culture with short feedback cycles
-* A working environment where questions are seen as essential for knowledge transfer and growth
-* Ability to use whatever tool is most suitable to solve a problem
-* Access to a standing desk and a Linux workstation
-* Relative quiet (loud, open floorplans packed with people aren't for me)
-* A robust software engineering practice using some kind of project management tool (e.g. Pivotal Tracker) or the desire to do so
-* "Agile" development process; basically any process that includes short iterations, frequent production releases and quick feedback rather than a waterfall process
+* Lead Engineer at [DaisyBill](https://www.daisybill.com) (2013-2014)
+* Senior Consultant at [Pivotal Labs](https://pivotal.io/labs) (2011-2013)
+* Consultant at [ThoughtWorks](https://www.thoughtworks.com) (2009-2011)
+* Self-taught software engineer at [First American Title Insurance Company](http://www.firstam.com)
