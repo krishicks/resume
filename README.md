@@ -6,8 +6,8 @@ krishicks@gmail.com | [LinkedIn](https://www.linkedin.com/in/kris-hicks-a6123a16
 ### About me
 
 **I am originally a self-taught developer.** In 2007 I taught myself enough Ruby to automate parts of the job I had then.
-**I prefer being a part of a small team.** I like teams with 2-8 people, with a dedicated project manager.
-**I prefer face-to-face communication.** I am best able to communicate my ideas via high-bandwidth, face-to-face contact rather than over tools like Slack or e-mail.
+**I prefer being a part of a small team.** I work best on a team with 2-8 people, with a dedicated project manager.
+**I prefer face-to-face communication.** I communicate my ideas best via high-bandwidth, face-to-face contact rather than over tools like Slack or e-mail.
 **I am a visual thinker.** I visualize problems and solutions to them and tend to draw my notes more frequently than I write them.
 **I learn by doing.** I wasn't able to get into software development until I had a problem to solve. The knowledge I have today is mostly that which I've gained practicing software development rather than reading or studying about it.
 **I like pair-programming.** I tend not to want to pair-program 100% of the time, but I am happy to pair-program to get past a tricky issue or ramp up a new engineer.
@@ -16,7 +16,7 @@ krishicks@gmail.com | [LinkedIn](https://www.linkedin.com/in/kris-hicks-a6123a16
 
 > There's always a better way.
 
-There's almost always a better way of doing something. There's also a point at which the effort isn't worth it. I aim to find the balance. I used this motto to drive my decision to teach myself software development, and I use it on an ongoing basis to drive the decisions that I make day-to-day writing software.
+There's almost always a better way of doing something. There's also a point of diminishing returns. I aim to find the balance. I used this motto to drive my decision to teach myself software development, and I use it on an ongoing basis to drive the decisions that I make day-to-day writing software.
 
 ### Experience
 
