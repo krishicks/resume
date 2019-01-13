@@ -54,7 +54,7 @@ Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the 
   * Worked on many aspects; BOSH release, scheduler, CLI
 * Solutions Architect
   * Devised multiple solutions for Comcast in their transition to [Pivotal Cloud Foundry](https://pivotal.io/platform)
-  * Created documentation/mititgation for multiple network-related Pivotal Cloud Foundry CVEs
+  * Created documentation/mitigation for multiple network-related Pivotal Cloud Foundry CVEs
 * Customer[0]
   * Took over an internal project and made it into a viable customer-facing product, [pcf-pipelines](https://github.com/pivotal-cf/pcf-pipelines), which uses Terraform and Concourse to deploy Pivotal Cloud Foundry
   * Created [pg2mysql](https://github.com/pivotal-cf/pg2mysql) to migrate PCF customers from PostgreSQL to MySQL, the third such attempt and the only one that worked
