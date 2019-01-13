@@ -1,8 +1,7 @@
 Kris Hicks  
 ===
 San Francisco  
-<[krishicks@gmail.com](mailto:krishicks@gmail.com)>
-<[LinkedIn](https://www.linkedin.com/in/kris-hicks-a6123a161/)>
+krishicks@gmail.com | [LinkedIn](https://www.linkedin.com/in/kris-hicks-a6123a161)
 
 ### About me
 
