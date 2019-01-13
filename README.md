@@ -52,7 +52,7 @@ There's almost always a better way of doing something. There's also a point of d
 * 2013-2014 - Lead Engineer - [DaisyBill](https://www.daisybill.com)
 * 2011-2013 - Senior Consultant - [Pivotal Labs](https://pivotal.io/labs)
 * 2009-2011 - Consultant - [ThoughtWorks](https://www.thoughtworks.com)
-* 2007-2009 - Self-taught software engineer - [First American Title Insurance Company](http://www.firstam.com)
+* 2007-2009 - Self-taught Software Engineer - [First American Title Insurance Company](http://www.firstam.com)
 
 ### Skills
 
