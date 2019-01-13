@@ -56,9 +56,9 @@ There's almost always a better way of doing something. There's also a point of d
 
 ### Skills
 
-Disciplines: Software Engineering, Site Reliability Engineering
-Languages: Go, Ruby, SQL
-Cloud Platforms: Google Cloud Platform, Amazon Web Services
-Container Orchestrators: Kubernetes, Cloud Foundry
-Infrastructure as Code: Terraform, Packer, BOSH
-Continuous Integration: Concourse, CircleCI
+* **Disciplines**: Software Engineering, Site Reliability Engineering
+* **Languages**: Go, Ruby, SQL
+* **Cloud Platforms**: Google Cloud Platform, Amazon Web Services
+* **Container Orchestrators**: Kubernetes, Cloud Foundry
+* **Infrastructure as Code**: Terraform, Packer, BOSH
+* **Continuous Integration**: Concourse, CircleCI
