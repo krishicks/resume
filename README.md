@@ -6,34 +6,22 @@ San Francisco
 
 ### About me
 
-Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the job I had then. Since then I've worked in a variety of domains and technologies as a software engineer, site reliability engineer, and solutions architect as well as doing project management and product development.
+**I am originally a self-taught developer.** In 2007 I taught myself enough Ruby to automate parts of the job I had then.
+**I prefer being a part of a small team.** I like teams with 2-8 people, with a dedicated project manager.
+**I prefer face-to-face communication.** I am best able to communicate my ideas via high-bandwidth, face-to-face contact rather than over tools like Slack or e-mail.
+**I am a visual thinker.** I visualize problems and solutions to them and tend to draw my notes more frequently than I write them.
+**I learn by doing.** I wasn't able to get into software development until I had a problem to solve. The knowledge I have today is mostly that which I've gained practicing software development rather than reading or studying about it.
+**I like pair-programming.** I tend not to want to pair-program 100% of the time, but I am happy to pair-program to get past a tricky issue or ramp up a new engineer.
 
-### What I look for in a workplace
+### My motto
 
-* Feedback-friendly culture with short feedback cycles
-* A working environment where questions are seen as essential for knowledge transfer and growth
-* Ability to use whatever tool is most suitable to solve a problem
-* Access to a standing desk and a Linux workstation
-* Relative quiet (loud, open floorplans packed with people aren't for me)
-* A robust software engineering practice using some kind of project management tool (e.g. Pivotal Tracker) or the desire to do so
-* "Agile" development process; basically any process that includes short iterations, frequent production releases and quick feedback rather than a waterfall process
+> There's always a better way.
 
-### What I want to continue doing
+There's almost always a better way of doing something. There's also a point at which the effort isn't worth it. I aim to find the balance. I used this motto to drive my decision to teach myself software development, and I use it on an ongoing basis to drive the decisions that I make day-to-day writing software.
 
-* Be a multiplier for other engineers, internal and external
-* Work on infrastructure-as-code and continuous integration/continuous deployment
-* Development in Go
-* Use agile methodologies to build software
-* Interview stakeholders, discover problems, create solutions
-* Deployments onto Kubernetes
+### Experience
 
-### What I want to start doing
-
-* Development in another language, possibly Rust
-
-### Work Experience
-
-#### Currently: SWE-SRE at [LightStep](https://www.lightstep.com)
+#### 2017-current - **SWE-SRE** - [LightStep](https://www.lightstep.com)
 
 * Created robust build and release pipelines in Concourse
 * Dockerfile updates to build Go binaries uniformly and quickly
@@ -45,7 +33,7 @@ Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the 
 * Led conversion of existing infrastructure to Terraform, used Terraform for new infrastructure
 * Lots of work with [helm](https://helm.sh) charts to standardize config
 
-#### Previously: Staff Engineer at [Pivotal](https://pivotal.io/) (2014-2017)
+####  2014-2017 - **Staff Engineer** - [Pivotal](https://pivotal.io/)
 * R&D on [Cloud Foundry](https://www.cloudfoundry.org)
   * Led a revamp/refactoring of the [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) (Go)
   * On the Security Enablement team implemented a mechanism to scan all Cloud Foundry git repositories for secrets
@@ -62,7 +50,16 @@ Hi, I'm Kris. Back in 2007 I taught myself enough Ruby to automate parts of the 
 
 #### Past Roles
 
-* Lead Engineer at [DaisyBill](https://www.daisybill.com) (2013-2014)
-* Senior Consultant at [Pivotal Labs](https://pivotal.io/labs) (2011-2013)
-* Consultant at [ThoughtWorks](https://www.thoughtworks.com) (2009-2011)
-* Self-taught software engineer at [First American Title Insurance Company](http://www.firstam.com)
+* 2013-2014 - Lead Engineer - [DaisyBill](https://www.daisybill.com)
+* 2011-2013 - Senior Consultant - [Pivotal Labs](https://pivotal.io/labs)
+* 2009-2011 - Consultant - [ThoughtWorks](https://www.thoughtworks.com)
+* 2007-2009 - Self-taught software engineer - [First American Title Insurance Company](http://www.firstam.com)
+
+### Skills
+
+Disciplines: Software Engineering, Site Reliability Engineering
+Languages: Go, Ruby, SQL
+Cloud Platforms: Google Cloud Platform, Amazon Web Services
+Container Orchestrators: Kubernetes, Cloud Foundry
+Infrastructure as Code: Terraform, Packer, BOSH
+Continuous Integration: Concourse, CircleCI
