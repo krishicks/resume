@@ -3,6 +3,10 @@ Kris Hicks
 San Francisco  
 krishicks@gmail.com | [LinkedIn](https://www.linkedin.com/in/kris-hicks-a6123a161)
 
+### Objective
+
+Deliver software and infrastructure solutions to real-world problems, preferably by developing and using free and open-source software (F/OSS).
+
 ### About me
 
 **I am originally a self-taught developer.** In 2007 I taught myself enough Ruby to automate parts of the job I had then.
