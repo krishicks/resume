@@ -24,7 +24,13 @@ There's almost always a better way of doing something. There's also a point of d
 
 ### Experience
 
-#### 2017-current - **SWE-SRE** - LightStep (https://www.lightstep.com)
+#### 2019-2019 - **Senior Systems Engineer** - Earnest (https://www.earnest.com)
+
+* Introduced an effective agile development process, which dramatically increased team productivity and reduced silos
+* Identified numerous areas for improving and/or upgrading aging infrastructure and created technical implementation plans for them
+* Successfully led the upgrade of Kubernetes 1.7.8 to 1.10.13 in 3 weeks with zero downtime when the previous estimate was 4 months
+
+#### 2017-2019 - **SWE-SRE** - LightStep (https://www.lightstep.com)
 
 * Created robust build and release pipelines in Concourse
 * Dockerfile updates to build Go binaries uniformly and quickly
