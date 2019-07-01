@@ -9,12 +9,7 @@ Deliver software and infrastructure solutions to real-world problems, preferably
 
 ### About me
 
-**I am originally a self-taught developer.** In 2007 I taught myself enough Ruby to automate parts of the job I had then.
-**I prefer being a part of a small team.** I work best on a team with 2-8 people, with a dedicated project manager.
-**I prefer face-to-face communication.** I communicate my ideas best via high-bandwidth, face-to-face contact rather than over tools like Slack or e-mail.
-**I am a visual thinker.** I visualize problems and solutions to them and tend to draw my notes more frequently than I write them.
-**I learn by doing.** I wasn't able to get into software development until I had a problem to solve. The knowledge I have today is mostly that which I've gained practicing software development rather than reading or studying about it.
-**I like pair-programming.** I tend not to want to pair-program 100% of the time, but I am happy to pair-program to get past a tricky issue or ramp up a new engineer.
+I am a highly productive software and infrastructure/devops engineer. I bring to the table a decade of experience building and shipping production software. In that time I have developed a wide range of experience, including being an individual contributor as well as managing multiple open- and closed-source software and infrastructure projects. I care about developer productivity and autonomy, reducing toil, and delivering software and infrastructure solutions with a pragmatic approach. I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud, as well as multiple container schedulers, including Kubernetes and Cloud Foundry, both as an engineer and as an operator/admin. I am well-versed in test-driven development and agile development practices. I prefer tests over comments, and automation over documentation wherever possible. I love Linux, Vim, Git, and Go.
 
 ### My motto
 
