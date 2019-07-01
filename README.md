@@ -9,20 +9,20 @@ Deliver software and infrastructure solutions to real-world problems, preferably
 
 ### About me
 
-I am a highly productive software and infrastructure/devops engineer. I bring to the table a decade of experience building and shipping production software. In that time I have developed a wide range of experience, including being an individual contributor as well as managing multiple open- and closed-source software and infrastructure projects. I care about developer productivity and autonomy, reducing toil, and delivering software and infrastructure solutions with a pragmatic approach. I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud, as well as multiple container schedulers, including Kubernetes and Cloud Foundry, both as an engineer and as an operator/admin. I am well-versed in test-driven development and agile development practices. I prefer tests over comments, and automation over documentation wherever possible. I love Linux, Vim, Git, and Go.
+I am a highly productive software and infrastructure/DevOps engineer. I bring to the table a decade of experience building and shipping production software. In that time, I have developed a wide range of experience, including being an individual contributor as well as managing multiple open- and closed-source software and infrastructure projects. I care about developer productivity and autonomy, reducing toil, and delivering software and infrastructure solutions with a pragmatic approach. I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud, as well as multiple container schedulers, including Kubernetes and Cloud Foundry, both as an engineer and as an operator/admin. I am well-versed in test-driven development and agile development practices, prefer tests over comments, and automation over documentation wherever possible. I love Linux, Vim, Git, and Go.
 
 ### My motto
 
 > There's always a better way.
 
-There's almost always a better way of doing something. There's also a point of diminishing returns. I aim to find the balance. I used this motto to drive my decision to teach myself software development, and I use it on an ongoing basis to drive the decisions that I make day-to-day writing software.
+There's almost always a better way of doing something. There's also a point of diminishing returns. I aim to find a balance. I used this motto to drive my decision to teach myself software development, and I use it on an ongoing basis to drive the decisions that I make day-to-day writing software.
 
 ### Experience
 
 #### 2019-2019 - **Senior Systems Engineer** - Earnest (https://www.earnest.com)
 
 * Introduced an effective agile development process, which dramatically increased team productivity and reduced silos
-* Identified numerous areas for improving and/or upgrading aging infrastructure and created technical implementation plans for them
+* Identified numerous areas for improving and upgrading aging infrastructure and created technical implementation plans for them
 * Successfully led the upgrade of Kubernetes 1.7.8 to 1.10.13 in 3 weeks with zero downtime when the previous estimate was 4 months
 
 #### 2017-2019 - **SWE-SRE** - LightStep (https://www.lightstep.com)
@@ -33,7 +33,7 @@ There's almost always a better way of doing something. There's also a point of d
 * Extended existing developer CLI tools for managing deployments
 * Created a system for recording upgrades of helm charts for tracking developer KPIs including time from code merge to deploy
 * Led security-focused work to remove secrets from Git repositories, restrict secrets to least-privileged access
-* Instrumental in transition to a monolithic Git repository
+* Instrumental in the transition to a monolithic Git repository
 * Led conversion of existing infrastructure to Terraform, used Terraform for new infrastructure
 * Lots of work with helm charts to standardize config
 
