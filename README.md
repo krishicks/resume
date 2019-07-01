@@ -1,7 +1,7 @@
 Kris Hicks  
 ===
 San Francisco  
-krishicks@gmail.com | [LinkedIn](https://www.linkedin.com/in/kris-hicks-a6123a161)
+krishicks@gmail.com | LinkedIn (https://www.linkedin.com/in/kris-hicks-a6123a161)
 
 ### Objective
 
@@ -24,39 +24,39 @@ There's almost always a better way of doing something. There's also a point of d
 
 ### Experience
 
-#### 2017-current - **SWE-SRE** - [LightStep](https://www.lightstep.com)
+#### 2017-current - **SWE-SRE** - LightStep (https://www.lightstep.com)
 
 * Created robust build and release pipelines in Concourse
 * Dockerfile updates to build Go binaries uniformly and quickly
-* Created multiple developer tools for managing [Let's Encrypt](https://letsencrypt.org) certs, CI pipelines
+* Created multiple developer tools for managing Let's Encrypt certs, CI pipelines
 * Extended existing developer CLI tools for managing deployments
 * Created a system for recording upgrades of helm charts for tracking developer KPIs including time from code merge to deploy
 * Led security-focused work to remove secrets from Git repositories, restrict secrets to least-privileged access
 * Instrumental in transition to a monolithic Git repository
 * Led conversion of existing infrastructure to Terraform, used Terraform for new infrastructure
-* Lots of work with [helm](https://helm.sh) charts to standardize config
+* Lots of work with helm charts to standardize config
 
-####  2014-2017 - **Staff Engineer** - [Pivotal](https://pivotal.io/)
-* R&D on [Cloud Foundry](https://www.cloudfoundry.org)
-  * Led a revamp/refactoring of the [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) (Go)
+####  2014-2017 - **Staff Engineer** - Pivotal (https://pivotal.io/)
+* R&D on Cloud Foundry
+  * Led a revamp/refactoring of the Cloud Foundry CLI (Go)
   * On the Security Enablement team implemented a mechanism to scan all Cloud Foundry git repositories for secrets
-  * Various work on [BOSH](https://github.com/cloudfoundry/bosh), [BOSH CLI](https://github.com/cloudfoundry/bosh-cli), Diego
-* [Concourse](https://concourse-ci.org)
+  * Various work on BOSH, BOSH CLI, Diego
+* Concourse
   * Worked on many aspects; BOSH release, scheduler, CLI
 * Solutions Architect
-  * Devised multiple solutions for Comcast in their transition to [Pivotal Cloud Foundry](https://pivotal.io/platform)
+  * Devised multiple solutions for Comcast in their transition to Pivotal Cloud Foundry
   * Created documentation/mitigation for multiple network-related Pivotal Cloud Foundry CVEs
 * Customer[0]
-  * Took over an internal project and made it into a viable customer-facing product, [pcf-pipelines](https://github.com/pivotal-cf/pcf-pipelines), which uses Terraform and Concourse to deploy Pivotal Cloud Foundry
-  * Created [pg2mysql](https://github.com/pivotal-cf/pg2mysql) to migrate PCF customers from PostgreSQL to MySQL, the third such attempt and the only one that worked
+  * Took over an internal project and made it into a viable customer-facing product, pcf-pipelines, which uses Terraform and Concourse to deploy Pivotal Cloud Foundry
+  * Created pg2mysql to migrate PCF customers from PostgreSQL to MySQL, the third such attempt and the only one that worked
   * Brought in as a champion of PCF and knowledge expert regarding multiple aspects of PCF during pre-sales calls
 
 #### Past Roles
 
-* 2013-2014 - Lead Engineer - [DaisyBill](https://www.daisybill.com)
-* 2011-2013 - Senior Consultant - [Pivotal Labs](https://pivotal.io/labs)
-* 2009-2011 - Consultant - [ThoughtWorks](https://www.thoughtworks.com)
-* 2007-2009 - Self-taught Software Engineer - [First American Title Insurance Company](http://www.firstam.com)
+* 2013-2014 - Lead Engineer - DaisyBill (https://www.daisybill.com)
+* 2011-2013 - Senior Consultant - Pivotal Labs (https://pivotal.io/labs)
+* 2009-2011 - Consultant - ThoughtWorks (https://www.thoughtworks.com)
+* 2007-2009 - Self-taught Software Engineer - First American Title Insurance Company (http://www.firstam.com)
 
 ### Skills
 
