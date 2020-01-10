@@ -9,7 +9,7 @@ Deliver software and infrastructure solutions to real-world problems, preferably
 
 ### About me
 
-I am a highly productive software and infrastructure/DevOps engineer. I bring to the table a decade of experience building and shipping production software. In that time, I have developed a wide range of experience, including being an individual contributor as well as managing multiple open- and closed-source software and infrastructure projects. I care about developer productivity and autonomy, reducing toil, and delivering software and infrastructure solutions with a pragmatic approach. I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud, as well as multiple container schedulers, including Kubernetes and Cloud Foundry, both as an engineer and as an operator/admin. I am well-versed in test-driven development and agile development practices, prefer tests over comments, and automation over documentation wherever possible. I love Linux, Vim, Git, and Go.
+I am a highly productive software and infrastructure/DevOps engineer. I bring to the table a decade of experience building and shipping production software. In that time, I have developed a wide range of experience, including being an individual contributor as well as managing multiple open- and closed-source software and infrastructure projects. I care about developer productivity and autonomy, reducing toil, and delivering software and infrastructure solutions with a pragmatic approach. I am familiar with multiple cloud infrastructure providers, including Amazon Web Services and Google Cloud, as well as multiple container schedulers, including Nomad, Kubernetes and Cloud Foundry, both as an engineer and as an operator/admin. I am well-versed in test-driven development and agile development practices, prefer tests over comments, and automation over documentation wherever possible. I love Linux, Vim, Git, and Go.
 
 ### My motto
 
@@ -18,6 +18,23 @@ I am a highly productive software and infrastructure/DevOps engineer. I bring to
 There's almost always a better way of doing something. There's also a point of diminishing returns. I aim to find a balance. I used this motto to drive my decision to teach myself software development, and I use it on an ongoing basis to drive the decisions that I make day-to-day writing software.
 
 ### Experience
+
+#### 2019-Current - **Senior Engineer** - HashiCorp (https://www.hashicorp.com)
+
+* Designed and implemented a system for doing zero-downtime, fully-automated blue/green deploys and upgrades of Nomad, Consul, and Vault on AWS via CircleCI, Packer, and Terraform (+CloudFormation)
+* Designed and implemented tooling for sharing common make targets and CircleCI configuration across 90+ repositories, covering Nomad, Terraform, and Packer activities as well as for generating and linting mocks and protos, building Go binaries and Docker images, and more
+* Created multiple "base" OS images (Docker, Azure Machine Image, and AWS Machine Image) and implemented CircleCI pipelines to keep downstream consumers of the base images updated
+* Created an AWS Lambda-based mechanism for draining workloads from Nomad client nodes prior to the node being decommissioned
+* Created a system for running integration tests as parameterized Nomad jobs
+* Used terratest for testing Terraform, goss for testing machine images, shellcheck for linting shell scripts
+* Designed and implemented cross-regional AWS Private Link networking to enable communication between on-prem CircleCI and multiple private VPCs
+* Maintained and expanded developer tooling to support a single small team as it grew to 5+ teams and >30 ICs
+* Wrote a lot of Packer and Terraform manifests, Nomad jobspecs, bash, jq, and YAML and some Go
+* Realized the importance of deploying early and often, and led the effort to deploy the HashiCorp Cloud Services control plane as soon as possible
+* Gave multiple presentations on and demos of infrastructure I built
+* Designed and implemented build and release pipelines for the HashiCorp Cloud control plane services, a continuously-deployed, distributed system comprised of multiple Nomad jobs, as well as tooling to generate and manage the pipelines
+* Created multiple diagrams of infrastructure I designed and built
+* Wrote multiple RFCs for solutions I eventually implemented
 
 #### 2019-2019 - **Senior Systems Engineer** - Earnest (https://www.earnest.com)
 
