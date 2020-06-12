@@ -19,30 +19,37 @@ There's almost always a better way of doing something. There's also a point of d
 
 ### Experience
 
-#### 2019-Current - Senior Engineer - HashiCorp (https://www.hashicorp.com)
+#### HashiCorp
 
-* Designed and implemented a system for doing zero-downtime, fully-automated blue/green deploys and upgrades of Nomad, Consul, and Vault on AWS via CircleCI, Packer, and Terraform (+CloudFormation)
-* Designed and implemented tooling for sharing common make targets and CircleCI configuration across 90+ repositories, covering Nomad, Terraform, and Packer activities as well as for generating and linting mocks and protos, building Go binaries and Docker images, and more
-* Created multiple "base" OS images (Docker, Azure Machine Image, and AWS Machine Image) and implemented CircleCI pipelines to keep downstream consumers of the base images updated
-* Created an AWS Lambda-based mechanism for draining workloads from Nomad client nodes prior to the node being decommissioned
-* Created a system for running integration tests as parameterized Nomad jobs
-* Used terratest for testing Terraform, goss for testing machine images, shellcheck for linting shell scripts
-* Designed and implemented cross-regional AWS PrivateLink networking to enable communication between on-prem CircleCI and multiple private VPCs
-* Maintained and expanded developer tooling to support a single small team as it grew to 5+ teams and 30+ ICs
-* Wrote a lot of Packer and Terraform manifests, Nomad jobspecs, bash, jq, and YAML and some Go
-* Realized the importance of deploying early and often, and led the effort to deploy the HashiCorp Cloud Services control plane as soon as possible
-* Gave multiple presentations on and demos of infrastructure I built
-* Designed and implemented build and release pipelines for the HashiCorp Cloud control plane services, a continuously-deployed, distributed system comprised of multiple Nomad jobs, as well as tooling to generate and manage the pipelines
-* Created multiple diagrams of infrastructure I designed and built
-* Wrote multiple RFCs for solutions I eventually implemented
+2019- | *Senior Engineer, Release Engineering*
 
-#### 2019-2019 - Senior Systems Engineer - Earnest (https://www.earnest.com)
+* Supported 5+ teams and 30+ ICs in a 100% remote environment
+* Responsible for architecting and implementing build and release pipelines, developer tooling
+* Led the effort to deploy the HashiCorp Cloud control plane
+* Continually solicited feedback from ICs on pain points they had around development, testing, and release workflows
+* Worked with stakeholders to determine priority of backlog items
+* Gave presentations and demos to groups of varying technical backgrounds and sizes
+* Effectively communicated design ideas through internal RFCs, infrastructure diagrams
+
+Implemented the following:
+
+* Zero-downtime, fully-automated blue/green deploys and upgrades of Nomad, Consul, and Vault
+* Tooling for sharing common make targets and CircleCI configuration across 90+ repositories
+* Pipelines to build, test, and release a variety of machine images as well as Go services deployed as Nomad jobs
+* Multiple mechanisms for running integration tests
+* Networking between on-prem CircleCI and multiple private VPCs
+
+#### Earnest
+
+2019 | *Senior Systems Engineer*
 
 * Introduced an effective agile development process, which dramatically increased team productivity and reduced silos
 * Identified numerous areas for improving and upgrading aging infrastructure and created technical implementation plans for them
 * Successfully led the upgrade of Kubernetes 1.7.8 to 1.10.13 in 3 weeks with zero downtime when the previous estimate was 4 months
 
-#### 2017-2019 - SWE-SRE - LightStep (https://www.lightstep.com)
+#### LightStep
+
+2017-2019 | *SWE-SRE*
 
 * Created robust build and release pipelines in Concourse
 * Dockerfile updates to build Go binaries uniformly and quickly
@@ -54,7 +61,10 @@ There's almost always a better way of doing something. There's also a point of d
 * Led conversion of existing infrastructure to Terraform, used Terraform for new infrastructure
 * Lots of work with helm charts to standardize config
 
-####  2014-2017 - Staff Engineer - Pivotal (https://pivotal.io/)
+####  Pivotal
+
+2014-2017 | *Staff Engineer*
+
 * R&D on Cloud Foundry
   * Led a revamp/refactoring of the Cloud Foundry CLI (Go)
   * On the Security Enablement team implemented a mechanism to scan all Cloud Foundry git repositories for secrets
