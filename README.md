@@ -27,7 +27,7 @@ There's almost always a better way of doing something. There's also a point of d
 * Created an AWS Lambda-based mechanism for draining workloads from Nomad client nodes prior to the node being decommissioned
 * Created a system for running integration tests as parameterized Nomad jobs
 * Used terratest for testing Terraform, goss for testing machine images, shellcheck for linting shell scripts
-* Designed and implemented cross-regional AWS Private Link networking to enable communication between on-prem CircleCI and multiple private VPCs
+* Designed and implemented cross-regional AWS PrivateLink networking to enable communication between on-prem CircleCI and multiple private VPCs
 * Maintained and expanded developer tooling to support a single small team as it grew to 5+ teams and 30+ ICs
 * Wrote a lot of Packer and Terraform manifests, Nomad jobspecs, bash, jq, and YAML and some Go
 * Realized the importance of deploying early and often, and led the effort to deploy the HashiCorp Cloud Services control plane as soon as possible
