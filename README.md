@@ -19,7 +19,7 @@ There's almost always a better way of doing something. There's also a point of d
 
 ### Experience
 
-#### 2019-Current - **Senior Engineer** - HashiCorp (https://www.hashicorp.com)
+#### 2019-Current - Senior Engineer - HashiCorp (https://www.hashicorp.com)
 
 * Designed and implemented a system for doing zero-downtime, fully-automated blue/green deploys and upgrades of Nomad, Consul, and Vault on AWS via CircleCI, Packer, and Terraform (+CloudFormation)
 * Designed and implemented tooling for sharing common make targets and CircleCI configuration across 90+ repositories, covering Nomad, Terraform, and Packer activities as well as for generating and linting mocks and protos, building Go binaries and Docker images, and more
@@ -36,13 +36,13 @@ There's almost always a better way of doing something. There's also a point of d
 * Created multiple diagrams of infrastructure I designed and built
 * Wrote multiple RFCs for solutions I eventually implemented
 
-#### 2019-2019 - **Senior Systems Engineer** - Earnest (https://www.earnest.com)
+#### 2019-2019 - Senior Systems Engineer - Earnest (https://www.earnest.com)
 
 * Introduced an effective agile development process, which dramatically increased team productivity and reduced silos
 * Identified numerous areas for improving and upgrading aging infrastructure and created technical implementation plans for them
 * Successfully led the upgrade of Kubernetes 1.7.8 to 1.10.13 in 3 weeks with zero downtime when the previous estimate was 4 months
 
-#### 2017-2019 - **SWE-SRE** - LightStep (https://www.lightstep.com)
+#### 2017-2019 - SWE-SRE - LightStep (https://www.lightstep.com)
 
 * Created robust build and release pipelines in Concourse
 * Dockerfile updates to build Go binaries uniformly and quickly
@@ -54,7 +54,7 @@ There's almost always a better way of doing something. There's also a point of d
 * Led conversion of existing infrastructure to Terraform, used Terraform for new infrastructure
 * Lots of work with helm charts to standardize config
 
-####  2014-2017 - **Staff Engineer** - Pivotal (https://pivotal.io/)
+####  2014-2017 - Staff Engineer - Pivotal (https://pivotal.io/)
 * R&D on Cloud Foundry
   * Led a revamp/refactoring of the Cloud Foundry CLI (Go)
   * On the Security Enablement team implemented a mechanism to scan all Cloud Foundry git repositories for secrets
