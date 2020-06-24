@@ -25,7 +25,7 @@ There's almost always a better way of doing something. There's also a point of d
 
 * Supported 5+ teams and 30+ ICs in a 100% remote environment
 * Responsible for architecting and implementing build and release pipelines, developer tooling
-* Led the effort to deploy the HashiCorp Cloud control plane
+* Led the effort to deploy the HashiCorp Cloud Platform control plane
 * Continually solicited feedback from ICs on pain points they had around development, testing, and release workflows
 * Worked with stakeholders to determine priority of backlog items
 * Gave presentations and demos to groups of varying technical backgrounds and sizes
