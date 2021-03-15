@@ -21,7 +21,7 @@ There's almost always a better way of doing something. There's also a point of d
 
 #### HashiCorp
 
-2019- | *Senior Engineer, Release Engineering*
+2019-2021 | *Senior Engineer, Release Engineering*
 
 * Supported 5+ teams and 30+ ICs in a 100% remote environment
 * Responsible for architecting and implementing build and release pipelines, developer tooling
