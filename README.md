@@ -39,14 +39,6 @@ Implemented the following:
 * Multiple mechanisms for running integration tests
 * Networking between on-prem CircleCI and multiple private VPCs
 
-#### Earnest
-
-2019 | *Senior Systems Engineer*
-
-* Introduced an effective agile development process, which dramatically increased team productivity and reduced silos
-* Identified numerous areas for improving and upgrading aging infrastructure and created technical implementation plans for them
-* Successfully led the upgrade of Kubernetes 1.7.8 to 1.10.13 in 3 weeks with zero downtime when the previous estimate was 4 months
-
 #### LightStep
 
 2017-2019 | *SWE-SRE*
