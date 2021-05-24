@@ -1,7 +1,7 @@
 Kris Hicks  
 ===
 San Francisco  
-kris@krishicks.com | LinkedIn (https://www.linkedin.com/in/kris-h-a6123a161/)
+kris@krishicks.com | [LinkedIn](https://www.linkedin.com/in/kris-h-a6123a161/)
 
 ### Objective
 
